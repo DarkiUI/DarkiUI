@@ -1,4 +1,4 @@
-- Hi, I’m @DarkiUI
+- Hi, I’m Rukai_UI
 - I’m interested in Coding bots and other stuff that has to do with coding
 - I’m currently learning Python 3, HTML5, JS, CSS and SQL
 - I’m looking to collaborate on projects in the futur
